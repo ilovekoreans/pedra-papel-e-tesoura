@@ -1,5 +1,5 @@
 {
-    "name": "Pedra, Papel e Tesoura",
+    "name": "Aula19e20_Napratica_26",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -15,7 +15,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.26",
+        "target": "6.0.28",
         "targetId": "microbit"
     },
     "supportedTargets": [
